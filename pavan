@@ -1,2 +1,8 @@
 this is pavan
+<<<<<<< HEAD
 this is used for git commit 
+=======
+this is the push command
+why this is happening
+
+>>>>>>> pavan
